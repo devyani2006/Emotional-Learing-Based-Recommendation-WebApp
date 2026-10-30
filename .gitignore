@@ -1,0 +1,39 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
